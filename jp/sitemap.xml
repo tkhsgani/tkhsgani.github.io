@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/posts/</loc>
+            <lastmod>2023-04-04T22:46:11+09:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/</loc>
+            <lastmod>2023-04-04T22:46:11+09:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://tkhsgani.github.io/en/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://tkhsgani.github.io/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/</loc>
+            <lastmod>2023-04-04T22:46:11+09:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/posts/post1/</loc>
+            <lastmod>2023-04-04T22:46:11+09:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/about/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/tags/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAZUKI TAKAHASHI</title>
+    <link>https://tkhsgani.github.io/</link>
+    <description>Recent content on KAZUKI TAKAHASHI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Tue, 04 Apr 2023 22:46:11 +0900</lastBuildDate><atom:link href="https://tkhsgani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>座右の短歌</title>
+      <link>https://tkhsgani.github.io/jp/posts/post1/</link>
+      <pubDate>Tue, 04 Apr 2023 22:46:11 +0900</pubDate>
+      
+      <guid>https://tkhsgani.github.io/jp/posts/post1/</guid>
+      <description>座右の銘にしている短歌がある。</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tkhsgani.github.io/jp/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tkhsgani.github.io/jp/about/</guid>
+      <description>高橋一樹</description>
+      
+    </item>
+    
+  </channel>
+</rss>

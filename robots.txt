@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tkhsgani.github.io/sitemap.xml
