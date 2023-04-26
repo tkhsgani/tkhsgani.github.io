@@ -5,7 +5,7 @@
     
       <url>
             <loc>https://tkhsgani.github.io/jp/posts/</loc>
-            <lastmod>2023-04-09T09:57:46+09:00</lastmod>
+            <lastmod>2023-04-26T23:29:46+09:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -13,8 +13,8 @@
   
     
       <url>
-            <loc>https://tkhsgani.github.io/</loc>
-            <lastmod>2023-04-09T09:57:46+09:00</lastmod>
+            <loc>https://tkhsgani.github.io/jp/</loc>
+            <lastmod>2023-04-26T23:29:46+09:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -25,15 +25,17 @@
             <xhtml:link
               rel="alternate"
               hreflang="jp"
-              href="https://tkhsgani.github.io/"
+              href="https://tkhsgani.github.io/jp/"
               />
           </url>
     
   
     
+  
+    
       <url>
-            <loc>https://tkhsgani.github.io/jp/</loc>
-            <lastmod>2023-04-09T09:57:46+09:00</lastmod>
+            <loc>https://tkhsgani.github.io/jp/posts/post3/</loc>
+            <lastmod>2023-04-26T23:29:46+09:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -68,6 +70,16 @@
             <loc>https://tkhsgani.github.io/jp/about/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://tkhsgani.github.io/en/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://tkhsgani.github.io/jp/about/"
+              />
           </url>
     
   
@@ -75,14 +87,6 @@
   
     
   
-    
-  
-    
-      <url>
-            <loc>https://tkhsgani.github.io/jp/tags/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
     
   
 </urlset>

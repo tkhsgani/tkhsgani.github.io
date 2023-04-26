@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>https://tkhsgani.github.io/en/about/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://tkhsgani.github.io/jp/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://tkhsgani.github.io/en/about/"
+              />
+          </url>
+    
+  
+    
+  
+    
   
     
       <url>
@@ -12,7 +32,7 @@
             <xhtml:link
               rel="alternate"
               hreflang="jp"
-              href="https://tkhsgani.github.io/"
+              href="https://tkhsgani.github.io/jp/"
               />
             <xhtml:link
               rel="alternate"
@@ -20,8 +40,6 @@
               href="https://tkhsgani.github.io/en/"
               />
           </url>
-    
-  
     
   
     
