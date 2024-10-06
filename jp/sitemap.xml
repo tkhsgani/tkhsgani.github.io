@@ -4,17 +4,8 @@
   
     
       <url>
-            <loc>https://tkhsgani.github.io/jp/posts/post26/</loc>
-            <lastmod>2024-10-01T11:30:00+09:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://tkhsgani.github.io/jp/posts/</loc>
-            <lastmod>2024-10-01T11:30:00+09:00</lastmod>
+            <lastmod>2024-10-06T11:30:00+09:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -23,7 +14,7 @@
     
       <url>
             <loc>https://tkhsgani.github.io/jp/</loc>
-            <lastmod>2024-10-01T11:30:00+09:00</lastmod>
+            <lastmod>2024-10-06T11:30:00+09:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -39,6 +30,26 @@
           </url>
     
   
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/posts/post27/</loc>
+            <lastmod>2024-10-06T11:30:00+09:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://tkhsgani.github.io/jp/posts/post26/</loc>
+            <lastmod>2024-10-01T11:30:00+09:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -61,8 +72,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
