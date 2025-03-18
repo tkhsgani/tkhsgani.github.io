@@ -338,6 +338,14 @@
   
     
       <url>
+            <loc>https://tkhsgani.github.io/jp/posts/post32/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://tkhsgani.github.io/jp/about/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
